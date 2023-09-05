@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-# Gordinho-Paloma
+# Cartão de Visita
 
 O projeto é um agregador de links para usar como cartão de visitas online e para facilitar o acesso estabelecimento.
 
